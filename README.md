@@ -50,9 +50,10 @@ Pequenos projetos Front-end e experiências UI.
 
 ---
 
-## 🐍 Cobrinha comendo seus commits
+## 
 
-Adicione este código no **final do README**:
 
-```md
 ![snake gif](https://github.com/davi1011muniz-rgb/davi1011muniz-rgb/blob/output/github-contribution-grid-snake.svg)
+
+
+
