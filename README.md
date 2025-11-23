@@ -7,16 +7,6 @@ Pequenos projetos Front-end e experiências UI.
 📫 Contato: **davi1011muniz@gmail.com**
 
 ---
-
-## 📲 Minhas Estatísticas
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=davi1011muniz-rgb&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi1011muniz-rgb&layout=compact&langs_count=10&theme=chartreuse-dark"/>
-</div>
-
----
-
 ## 💻 Tecnologias que uso
 
 <div style="display: inline_block"><br>
@@ -46,14 +36,20 @@ Pequenos projetos Front-end e experiências UI.
 
 </div>
 
+---
 
+## 📲 Minhas Estatísticas
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=davi1011muniz-rgb&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi1011muniz-rgb&layout=compact&langs_count=10&theme=chartreuse-dark"/>
+</div>
 
 ---
 
 ## 
 
 
-![snake gif](https://github.com/davi1011muniz-rgb/davi1011muniz-rgb/blob/output/github-contribution-grid-snake.svg)
 
 
 
