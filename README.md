@@ -8,7 +8,7 @@ Pequenos projetos Front-end e experiências UI.
 
 ---
 
-## 📊 Minhas Estatísticas
+## 📲 Minhas Estatísticas
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=davi1011muniz-rgb&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
@@ -17,7 +17,7 @@ Pequenos projetos Front-end e experiências UI.
 
 ---
 
-## 🚀 Tecnologias que uso
+## 💻 Tecnologias que uso
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
