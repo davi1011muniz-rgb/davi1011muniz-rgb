@@ -1,12 +1,22 @@
 ## 👋🏾 Olá! eu sou o Davi Muniz  
 
-Pequenos projetos Front-end e experiências UI.  
-🌱 Cursando Engenharia de Software.  
-🔭 Buscando colaborar em projetos web iniciantes e landing pages.  
-💬 Pergunte-me sobre: HTML, CSS, lógica de programação e estudos da faculdade.  
-📫 Contato: **davi1011muniz@gmail.com**
+<table>
+  <tr>
+    <td>
+      <h3>Pequenos projetos Front-end e experiências UI.<br>
+      🌱 Cursando Engenharia de Software.<br>
+      🔭 Buscando colaborar em projetos web iniciantes e landing pages.<br>
+      💬 Pergunte-me sobre: HTML, CSS, lógica de programação e estudos da faculdade.<br>
+      📫 Contato: <strong>davi1011muniz@gmail.com</strong></h3>
+    </td>
+    <td align="right">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTllenJkcGE0b24wdDdidDR0OGh4NjZvYzh5ajlxemg2MTJpcDV4ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/S3PBXqHjKL9GZhK2Yv/giphy.gif" width="190"/>
+    </td>
+  </tr>
+</table>
 
 ---
+
 ## 💻 Tecnologias que uso
 
 <div style="display: inline_block"><br>
@@ -38,6 +48,7 @@ Pequenos projetos Front-end e experiências UI.
 
 ---
 
+
 ## 📲 Minhas Estatísticas
 
 <div align="center">
@@ -45,9 +56,15 @@ Pequenos projetos Front-end e experiências UI.
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi1011muniz-rgb&layout=compact&langs_count=10&theme=chartreuse-dark"/>
 </div>
 
+
 ---
 
 ## 
+
+<div>
+  ![Snake animation] href="https://www.linkedin.com/in/davi-santos-garcia-muniz-164947231/">
+  
+</div>
 
 
 
